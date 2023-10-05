@@ -10,6 +10,7 @@ Tra ve cau chao 'Hi!'
 Hi!
 """
 
+
 def hi():
   # print('Hi !')
-  return 'Hi !'
+  return 'Hi!'
