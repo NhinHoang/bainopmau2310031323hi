@@ -12,5 +12,5 @@ Hi!
 
 
 def hi():
-  # print('Hi !')
-  return ' Hi !'
+  tmp = 'Hi!'
+  return tmp.replace('!', '')
